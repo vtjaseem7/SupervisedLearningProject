@@ -169,15 +169,15 @@ Reasons:
 ---
 
 ## Model Performance
-
-Final evaluation metrics:
-Metrics
-==================================================
-Accuracy : 0.7991
-Precision: 0.6608
-Recall   : 0.5000
-F1 Score : 0.5693
-ROC AUC  : 0.8457
+  
+    Final evaluation metrics:
+    Metrics
+    ==================================================
+- Accuracy : 0.7991
+- Precision: 0.6608
+- Recall   : 0.5000
+- F1 Score : 0.5693
+- ROC AUC  : 0.8457
 ---
 
 ## Installation
